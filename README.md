@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**anfel-debug/anfel-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Anfel Rouibi 👋
 
-Here are some ideas to get you started:
+### Data Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student with a growing interest in Data Science, Artificial Intelligence, and problem-solving.
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Student
+- 📊 Interested in Data Science
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌱 Currently learning and developing my technical skills
+
+## 🎯 Areas of Interest
+
+- Data Science
+- Machine Learning
+- Software Development
+
